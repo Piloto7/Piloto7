@@ -8,3 +8,4 @@
 Piloto7/Piloto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://help.sweateconomy.com/access/unauthenticated?return_to=https%3A%2F%2Fhelp.sweateconomy.com%2Fhc%2Fen-us%2Fsections%2F8495820285969-Sweat-Wallet-login-issues
